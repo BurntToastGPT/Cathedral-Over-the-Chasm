@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as below."
+type: software
+title: "Cathedral Over the Chasm: Artifact and Reproducibility (v1.0 Pilot)"
+authors:
+  - family-names: Scott
+    given-names: Noah
+    orcid: https://orcid.org/0009-0004-0590-4612
+    email: noah@noahscott.org
+license: MIT
+version: v1.0-pilot
+date-released: 2025-09-22
+repository-code: https://github.com/BurntToastGPT/Cathedral-Over-the-Chasm
+preferred-citation:
+  type: article
+  title: "Cathedral Over the Chasm: An Embodied, Aesthetic–Adversary Benchmark and How Models Goodhart It"
+  authors:
+    - family-names: Scott
+      given-names: Noah
+      orcid: https://orcid.org/0009-0004-0590-4612
+  year: 2025
+  notes: "Preprint"

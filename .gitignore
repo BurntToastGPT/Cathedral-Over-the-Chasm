@@ -1,0 +1,14 @@
+# OS cruft
+.DS_Store
+__MACOSX/
+
+# Local output from container runs
+out/
+
+# Python virtualenvs
+.venv/
+env/
+
+# Node, logs (if added later)
+node_modules/
+*.log
